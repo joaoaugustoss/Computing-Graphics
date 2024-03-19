@@ -2,6 +2,7 @@
 ### Student: João Augusto dos Santos Silva - 724667
 ### Contact: joao.silva.452811@sga.pucminas.br
 ### Professor: Rosilane Ribeiro da Mota
+### [Code Repository](https://github.com/joaoaugustoss/Computing-Graphics-Algorithms.git)
 ### [Code Presentation Video](https://drive.google.com/file/d/1h1PhmKXzsJeRgUWSFJJvN8V5wpLK2hbu/view?usp=sharing)
 ---
 ## Motivation
