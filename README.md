@@ -3,7 +3,7 @@
 ### Contact: joao.silva.452811@sga.pucminas.br
 ### Professor: Rosilane Ribeiro da Mota
 ### [Code Repository](https://github.com/joaoaugustoss/Computing-Graphics-Algorithms.git)
-### [Code Presentation Video](https://drive.google.com/file/d/1h1PhmKXzsJeRgUWSFJJvN8V5wpLK2hbu/view?usp=sharing)
+### [Code Presentation Video](https://drive.google.com/drive/folders/1jTHYOfLI6naLv41Bs3ab-Ef-lWoV_M4i?usp=sharing)
 ---
 ## Motivation
 - This work aims to complement the knowledge acquired in the Computer Graphics course through the development of a practical application for the studied algorithms.
